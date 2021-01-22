@@ -1,0 +1,5 @@
+Make main --> Lance un programme qui permet de choisir entre:
+ 1) Une traduction d'un texte alphabétique tapé au clavier vers un texte à l'écran + un audio en morse (morse.wav)
+ 2) Une traduction d'un texte en morse tapé au clavier vers un texte alphabétique à l'écran
+
+ Make test -->Teste les fonctions de traduction
